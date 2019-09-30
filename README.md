@@ -19,6 +19,7 @@
 **JSON LEGEND**
 - **id** любых данных - формат ` [{"id": "1"}, {"id": "2"}, ...]`
 - **src** любых файлов - формат ` [{"src": "/img/1.jpg"}, {"src": "/img/2.jpg"}, ...]`
+- **str** любых строковых данных - формат ` [{"str": "г. Москва, ул. Пупкина, д.32"}, {"str": "NY, Wall Street"}, ...]`
 
 ------------
 
@@ -47,8 +48,8 @@
 -  **kpp** //int
 -  **ogrn** //int
 -  **jur_name** //str
--  **jur_address** //str
-- **fiz_address** //str
+-  **jur_address** //json
+- **fiz_address** //json
 
 
 ------------
