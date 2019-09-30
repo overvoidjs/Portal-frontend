@@ -12,7 +12,7 @@ Portal-frontend
 
 -  **/catch/catch_registration** //Регистрация пользователя
 
-** Ожидает получить POST :**
+**Ожидает получить POST :**
 - **login** //str
 - **password** //str
 - **email** //str
