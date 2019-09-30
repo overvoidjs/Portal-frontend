@@ -48,8 +48,8 @@
 -  **kpp** //int
 -  **ogrn** //int
 -  **jur_name** //str
--  **jur_address** //json
-- **fiz_address** //json
+-  **jur_address** //json str
+- **fiz_address** //json str
 
 
 ------------
@@ -76,12 +76,12 @@
 
 - **event_name** //str
 - **event_type** //int
-- **event_way** //json
+- **event_way** //json id
 - **event_address** //str
 - **event_start_time** //str format YYYY-mm-dd
 - **event_end_time** //str format YYYY-mm-dd
 - **lector_id** //id
-- **event_photos** //json
+- **event_photos** //json src
 - **event_description** //str
 - **is_free** //bool(0/1)
 - **price** //int
