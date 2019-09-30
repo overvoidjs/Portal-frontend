@@ -75,7 +75,7 @@ Portal-frontend
 
 
 
-- ** /catch/catch_lector** //Создание нового лектора
+- **/catch/catch_lector** //Создание нового лектора
 
 **Ожидает получить POST:**
 
