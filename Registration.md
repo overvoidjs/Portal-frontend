@@ -20,16 +20,9 @@
 
 ------------
 
-## Макеты на выбор:
-### Макет 1
-1)
-[![Вход:](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/01.jpg "Вход:")](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/01.jpg "Вход:")
-2)
-[![Юридическая Инфа](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/02.jpg "Юридическая Инфа")](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/02.jpg "Юридическая Инфа")
-3)
-[![Последние данные](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/03.jpg "Последние данные")](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/03.jpg "Последние данные")
+## Макет для просмотра:
 
-### Макет 2
+### Макет
 
 1)
 [![Вход](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/04.jpg "Вход")](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/04.jpg "Вход")
