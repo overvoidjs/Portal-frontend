@@ -28,6 +28,8 @@
     kpp //int
     ogrn //int
     jur_name //str
+    jur_address //json str
+    fiz_address //json str
 
 **Ваша задача реализовать форму и написать AJAX для передачи данных в API**
 
@@ -48,4 +50,6 @@
 
 [![Responsive](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/03.jpg "Responsive")](https://github.com/overvoidjs/Portal-frontend/blob/master/img/Registration/03.jpg "Responsive")
 
+Ссылка на адаптивный макет:
+https://www.figma.com/file/fApzlT2dw2Wq0dzW0Pi5mc/Stomportal_TEST_2?node-id=13%3A1114
 
