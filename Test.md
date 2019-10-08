@@ -28,8 +28,6 @@
     kpp //int
     ogrn //int
     jur_name //str
-    jur_address //json str
-    fiz_address //json str
 
 **Ваша задача реализовать форму и написать AJAX для передачи данных в API**
 
